@@ -1,0 +1,11 @@
+{
+    "name": "ramboxbwang/laravel-quicktable",
+    "description": "Laravel速查表工具",
+    "authors": [
+        {
+            "name": "虢國技酱",
+            "email": "wxb0328@icloud.com"
+        }
+    ],
+    "require": {}
+}
